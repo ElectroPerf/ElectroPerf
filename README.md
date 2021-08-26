@@ -1,42 +1,59 @@
-<p align="center">
-<img src="https://github.com/ElectroPerf/ElectroPerf/blob/main/monark.jpg" />
-
 </p align="center">
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kunmun, a.k.a ⚡ElectroPerf⚡</h2>
 <h3 align="center">A passionate and keenly interested starter in Software World</h3>
 
 - 🌱 I’m currently learning **Android Development and Some Other Stuffs**
 
-- 🤓 A student of **Class XIth FIITJEE BHUBANESWAR**
-
 - 😝 Tell me some **cool stuffs**
 
-- 📫 How to reach me **[@ElectroPerf](https://t.me/ElectroPerf)**
+<p>
+  <em>
+    Lived 17 years of Life! <br>
 
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img align="center" /><td>
-    <td><img src="https://profile-counter.glitch.me/ElectroPerf/count.svg" alt="vistor count" /></td>
-  </tr>
-</table>
-<p align="center"><img width="100" src="https://github.githubassets.com/images/mona-whisper.gif"></p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-<h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
+<br>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ElectroPerf&style=flat-square" alt="ElectroPerf" /><br></p>
+
+## Metrics
+<br>
 <p align="center">
-  Its just a Start<img src="https://github.com/ElectroPerf/ElectroPerf/blob/main/1980519.png" width="30">
+<img src="https://github.com/ElectroPerf/ElectroPerf/actions/workflows/main.yml/badge.svg" alt="https://github.com/ElectroPerf/ElectroPerf/actions/workflows/main.yml" /><br></p>
 </p>
 
 <br>
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=ElectroPerf&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ElectroPerf&hide=css,java,html&theme=radical">
+<p align="center">
+<img src="https://github.com/ElectroPerf/ElectroPerf/blob/main/github-metrics.svg" alt="ElectroPerf" /><br>
 </p>
+
+## Stats
+
+<br>
 <p align = "center">
- 
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ElectroPerf&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
+  <img  src = "https://github-readme-stats.vercel.app/api?username=ElectroPerf&show_icons=true&theme=dark&line_height=27">
+</p>
+
+## Languages
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ElectroPerf&hide=css,java,html&theme=dark">
+</p>
+
+## Streak
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ElectroPerf&theme=dark"/></p>
+
+-----------------------------------------------------------------------------------------------------
+
+<p align="center">
+<img src="https://github.com/ElectroPerf/ElectroPerf/blob/main/walls/monark.jpg" />
+
+<br>
+
+  <a href="mailto:kunmun.devroms@gmail.com">
+    <img align="left" alt="ElectroPerf | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/mast>
+  </a>
+
+</br>
+
+<!-- Thanks to :- ⭐ From [TheDudeThatCode](https://github.com/TheDudeThatCode) -->
