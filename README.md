@@ -30,18 +30,18 @@
 
 <br>
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=ElectroPerf&show_icons=true&theme=dark&line_height=27">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=ElectroPerf&show_icons=true&theme=tokyonight&line_height=27">
 </p>
 
 ## Languages
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ElectroPerf&hide=css,java,html&theme=dark">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ElectroPerf&hide=css,java,html&theme=tokyonight">
 </p>
 
 ## Streak
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ElectroPerf&theme=dark"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ElectroPerf&theme=tokyonight"/></p>
 
 -----------------------------------------------------------------------------------------------------
 
