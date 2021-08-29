@@ -30,7 +30,7 @@
 
 <br>
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=ElectroPerf&show_icons=true&theme=tokyonight&line_height=27">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=ElectroPerf&show_icons=true&theme=tokyonight&line_height=27&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3">
 </p>
 
 ## Languages
@@ -41,7 +41,7 @@
 
 ## Streak
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ElectroPerf&theme=tokyonight"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ElectroPerf&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3"/></p>
 
 -----------------------------------------------------------------------------------------------------
 
