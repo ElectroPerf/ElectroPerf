@@ -26,34 +26,26 @@
 <img src="https://github.com/ElectroPerf/ElectroPerf/blob/main/github-metrics.svg" alt="ElectroPerf" /><br>
 </p>
 
-## Stats
+## Stats And Languages
 
 <br>
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=ElectroPerf&show_icons=true&theme=tokyonight&line_height=27&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3">
-</p>
-
-## Languages
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ElectroPerf&hide=css,java,html&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3">
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=ElectroPerf&show_icons=true&theme=tokyonight&line_height=27&hide_rank=false&border_radius=10&line_height=28&hide_border=true&count_private=true&text_color=a3a3a3">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ElectroPerf&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3">
+</a>
 
 ## Streak
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ElectroPerf&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3"/></p>
-
------------------------------------------------------------------------------------------------------
-
-<p align="center">
-<img src="https://github.com/ElectroPerf/ElectroPerf/blob/main/walls/monark.jpg" />
-
-<br>
-
-  <a href="mailto:kunmun.devroms@gmail.com">
-    <img align="left" alt="ElectroPerf | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/mast>
-  </a>
-
+<p href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ElectroPerf&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3"/>
+</p>
 </br>
 
-<!-- Thanks to :- ⭐ From [TheDudeThatCode](https://github.com/TheDudeThatCode) -->
+## Contribution Graph
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=ElectroPerf&text_color=a3a3a3&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3&theme=redical&area=true&area_color=a3a3a3"/>
+</p>
+
