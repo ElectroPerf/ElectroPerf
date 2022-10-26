@@ -1,15 +1,6 @@
 </p align="center">
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kunmun, a.k.a ⚡ElectroPerf⚡</h2>
-<h3 align="center">A passionate and keenly interested starter in Software World</h3>
-
-- 🌱 I’m currently learning **Android Development and Some Other Stuffs**
-
-- 😝 Tell me some **cool stuffs**
-
-<p>
-  <em>
-    Lived 17 years of Life! <br>
-
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is Kunmun, good name being Tattwamashi Nayak</h2>
+<h3 align="center">I'm a student and an 18 y.o. android enthusiast..</h3>
 
 <br>
 
