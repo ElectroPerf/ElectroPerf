@@ -6,6 +6,8 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ElectroPerf&style=flat-square" alt="ElectroPerf" /><br></p>
 
+[![@kunmun's Holopin board](https://holopin.me/kunmun)](https://holopin.io/@kunmun)
+
 ## Metrics
 <br>
 <p align="center">
