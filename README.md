@@ -1,12 +1,51 @@
-</p align="center">
-<h2 align="center">Hey There!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is Kunmun, good name being Tattwamashi Nayak</h2>
-<h3 align="center">I'm a student and an 18 y.o. android enthusiast..</h3>
+<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Tattwamashi Nayak!</h2>
 
+- 🌱 I’m currently a student of B.Tech at Gandhi Institute for Technology Advancements, Bhubaneswar.
+- 👀 Languages/Tools I know are C, C++, Shell programming (bash), Python, Java (basics). 
+- 💞️ I’m an avid learner and I've keen interest in Android Developmennt.
+- 👀 I’m interested in Open source projects like AOSP.
+- 📱 Devices I own are Motorola Edge 30(dubai) and Realme GT2 (porsche).
+- 📱 I'm Actively maintaining AOSPA for Motorola Edge 30 and Realme GT2 Officially.
+- ✔️ Looking forward to achieve something :)
+- 📫 You can reach me by my email address 'kunmun@aospa.co'.
+- 📫Lets Connect through LinkedIn, Twitter or Telegram.
+
+<a href="https://twitter.com/Kunmun36">
+  <img align="left" alt="Tattwamashi's Twitter " width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
+</a>
+<a href="https://t.me/kunmun36">
+  <img align="left" alt="Tattwamashi's Telegram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/tattwamashi-nayak-4a9209296"/>
+  <img align="left" alt="Tattwamashi's LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
+</a> 
+  <a href="https://forum.xda-developers.com/m/kunmun36.12667599/">
+  <img align="left" alt="My XDA" width="22px" src="https://www.xda-developers.com/public/build/images/favicon-48x48.8f822f21.png" />
+</a>
+
+<br><br>
+
+### 💻 Current working environments
+[![Windows 11](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+11&color=0078D4&logo=Windows+11&logoColor=FFFFFF&label=)](https://www.microsoft.com/en-in/software-download/windows10)
+[![Arch Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Arch+Linux&color=1793D1&logo=Arch+Linux&logoColor=FFFFFF&label=)](https://archlinux.org)
+[![Android](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=222222&logo=Android&logoColor=3DDC84&label=)](https://android.com/)
+
+### 💻 Current Work Machine
+#### ASUS Vivobook S14 OLED
+- Intel Core i5 12500H
+- 16GB DDR4 3200Mhz RAM
+- 1TB NVMe Gen4 SSD
+
+### ⚙️ &nbsp;Tattwamashi's GitHub Analytics
+<p align="center">
+<a href="https://github.com/ElectroPerf">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ElectroPerf&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ElectroPerf&layout=compact&langs_count=8&theme=nightowl"/>
+</a>
+</p>
 <br>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ElectroPerf&style=flat-square" alt="ElectroPerf" /><br></p>
-
-[![@kunmun's Holopin board](https://holopin.me/kunmun)](https://holopin.io/@kunmun)
+[![ElectroPerf's GitHub | Languages Over Time](https://stats.quine.sh/ElectroPerf/languages-over-time?theme=dark)](https://quine.sh)
 
 ## Metrics
 <br>
@@ -19,26 +58,6 @@
 <img src="https://github.com/ElectroPerf/ElectroPerf/blob/main/github-metrics.svg" alt="ElectroPerf" /><br>
 </p>
 
-## Stats And Languages
+### ⚙️ &nbsp;STattwamashi's Holopin Board
 
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=ElectroPerf&show_icons=true&theme=tokyonight&line_height=27&hide_rank=false&border_radius=10&line_height=28&hide_border=true&count_private=true&text_color=a3a3a3">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ElectroPerf&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3">
-</a>
-
-## Streak
-
-<p href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ElectroPerf&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3"/>
-</p>
-</br>
-
-## Contribution Graph
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ElectroPerf&text_color=a3a3a3&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3&theme=redical&area=true&area_color=a3a3a3"/>
-</p>
-
+[![@ElectroPerf's Holopin board](https://holopin.io/api/user/board?user=ElectroPerf)](https://holopin.io/@ElectroPerf)
