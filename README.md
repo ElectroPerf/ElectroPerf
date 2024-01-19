@@ -4,8 +4,8 @@
 - 👀 Languages/Tools I know are C, C++, Shell programming (bash), Python, Java (basics). 
 - 💞️ I’m an avid learner and I've keen interest in Android Developmennt.
 - 👀 I’m interested in Open source projects like AOSP.
-- 📱 Devices I own are Motorola Edge 30(dubai) and Realme GT2 (porsche).
-- 📱 I'm Actively maintaining AOSPA for Motorola Edge 30 and Realme GT2 Officially.
+- 📱 Devices I own are Motorola Edge 30(dubai), Nothing Phone (2) (Pong) and Realme GT2 (porsche).
+- 📱 I'm Actively maintaining AOSPA for Motorola Edge 30, Nothing Phone (2) and Realme GT2 Officially.
 - ✔️ Looking forward to achieve something :)
 - 📫 You can reach me by my email address 'kunmun@aospa.co'.
 - 📫Lets Connect through LinkedIn, Twitter or Telegram.
