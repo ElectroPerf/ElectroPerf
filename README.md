@@ -41,7 +41,11 @@
 </p>
 <br>
 
-[![ElectroPerf's GitHub | Languages Over Time](https://stats.quine.sh/ElectroPerf/languages-over-time?theme=dark)](https://quine.sh)
+[![ElectroPerf's GitHub | Stats](https://stats.quira.sh/ElectroPerf/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ElectroPerf)
+
+[![ElectroPerf's GitHub | Topics](https://stats.quira.sh/ElectroPerf/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ElectroPerf)
+
+[![ElectroPerf's GitHub | Languages](https://stats.quira.sh/ElectroPerf/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ElectroPerf)
 
 ## Metrics:
 <br>
