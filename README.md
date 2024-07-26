@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently a student of B.Tech at Gandhi Institute for Technology Advancements, Bhubaneswar.<br>👀 Languages/Tools I know are C, C++, Shell programming (bash), Python, Java (basics).<br>💞️ I’m an avid learner .<br>🙋 I've keen interest in Android Development and Open Source Contribution.<br>📱 Devices I own/used to own are Asus Zenfone Max Pro M2(X01BDA),  Motorola Edge 30(dubai), Nothing Phone (2) (Pong), OnePlus12 (waffle) and Realme GT2(porsche).<br>📱 I'm Actively maintaining AOSPA for Motorola Edge 30, Nothing Phone (2) and OnePlus12 Officially.
+🌱 I’m currently a student of B.Tech at Gandhi Institute for Technology Advancements, Bhubaneswar.<br>👀 Languages/Tools I know are C, C++, Shell programming (bash), Python, Java (basics).<br>💞️ I’m an avid learner .<br>🙋 I've keen interest in Android Development and Open Source Contribution.<br>📱 Devices I own/used to own are Asus Zenfone Max Pro M2(X01BDA),  Motorola Edge 30(dubai), Nothing Phone (2) (Pong), OnePlus12 (waffle), OnePlus Nord 4 (Avalon) and Realme GT2(porsche).<br>📱 I'm Actively maintaining AOSPA for Motorola Edge 30, Nothing Phone (2), OnePlus12 and OnePlus Nord 4 Officially.
 
 
 ## 🌐 Socials:
@@ -20,8 +20,7 @@
 - Ryzen 9 7950X
 - 64GB DDR5 6000MT/s RAM
 - Nvidia GeForce RTX 4080 Super
-- 1TB+2TB NVMe Gen4 XPG ADATA S70 BLADE
-- 500GB NVMe Gen3 Micron SSD
+- 1TB(x2) + 2TB NVMe Gen4 XPG ADATA S70 BLADE
 
 #### ASUS Vivobook S14 OLED
 - Intel Core i5 12500H
@@ -68,8 +67,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ElectroPerf&icon=8&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kunmun36) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kunmun36) 
