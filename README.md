@@ -46,17 +46,6 @@
 
 [![ElectroPerf's GitHub | Languages](https://stats.quira.sh/ElectroPerf/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ElectroPerf)
 
-## Metrics:
-<br>
-<p align="center">
-<img src="https://github.com/ElectroPerf/ElectroPerf/actions/workflows/main.yml/badge.svg" alt="https://github.com/ElectroPerf/ElectroPerf/actions/workflows/main.yml" /><br></p>
-</p>
-
-<br>
-<p align="center">
-<img src="https://github.com/ElectroPerf/ElectroPerf/blob/main/github-metrics.svg" alt="ElectroPerf" /><br>
-</p>
-
 ## Tattwamashi's Holopin Board:
 
 [![@ElectroPerf's Holopin board](https://holopin.io/api/user/board?user=ElectroPerf)](https://holopin.io/@ElectroPerf)
