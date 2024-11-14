@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%2336BCF7&size=30&center=true&vCenter=true&width=500&height=60&lines=Welcome+to+ElectroPerf's+GitHub+Profile!+%F0%9F%91%8B" alt="Welcome to ElectroPerf's GitHub Profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%2336BCF7&size=30&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+ElectroPerf's+GitHub+Profile!+%F0%9F%91%8B" alt="Welcome to ElectroPerf's GitHub Profile!">
 </h1>
 
 ## 💫 About Me:
@@ -29,7 +29,9 @@
   - 64GB DDR5 6000MT/s RAM<br>
   - Nvidia GeForce RTX 4080 Super<br>
   - 1TB(x2) + 2TB NVMe Gen4 XPG ADATA S70 BLADE<br><br>
-  
+</p>
+
+<p align="center">
   <strong>ASUS Vivobook S14 OLED</strong><br>
   - Intel Core i5 12500H<br>
   - 16GB DDR4 3200MT/s RAM<br>
@@ -67,3 +69,6 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=ElectroPerf&icon=8&color=0"/>
 </p>
+
+## 🏅 My Holopin Badges:
+[![An image of @electroperf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/electroperf)](https://holopin.io/@electroperf)
