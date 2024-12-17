@@ -3,7 +3,7 @@
 </h1>
 
 ## 💫 About Me:
-- 🌱 Pursuing B.Tech at Gandhi Institute for Technology Advancements, Bhubaneswar.
+- 🌱 Pursuing B.Tech in Computer Science and Technology.
 - 👀 Proficient in C, C++, Shell Programming (bash), Python, and basics of Java.
 - 🚀 Passionate about open-source contributions and cutting-edge technologies.
 
