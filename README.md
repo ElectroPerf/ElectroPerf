@@ -56,10 +56,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ElectroPerf/ElectroPerf/refs/heads/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ElectroPerf&icon=8&color=0"/>
-</p>
-
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="60"> GitHub Trophies:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ElectroPerf&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4"/>
