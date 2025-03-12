@@ -25,7 +25,7 @@
   <strong>Workstation</strong><br>
   - Ryzen 9 7950X<br>
   - 64GB DDR5 6000MT/s RAM<br>
-  - Nvidia GeForce RTX 4080 Super<br>
+  - Nvidia GeForce RTX 4080 Ti Super<br>
   - 1TB(x2) + 2TB NVMe Gen4 XPG ADATA S70 BLADE<br><br>
 </p>
 
